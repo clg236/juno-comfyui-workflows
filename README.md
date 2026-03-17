@@ -1,1 +1,1 @@
-# juno-confyui-workflows
+# juno-comfyui-workflows
